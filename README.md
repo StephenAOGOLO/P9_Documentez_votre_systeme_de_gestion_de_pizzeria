@@ -16,3 +16,24 @@ modifier ou annuler leur commande tant que celle-ci n’a pas été préparée
 de proposer un aide mémoire aux pizzaiolos indiquant la recette de chaque pizza
 d’informer ou notifier les clients sur l’état de leur commande
  Le client a déjà fait une petite prospection et les logiciels existants qu’il a pu trouver ne lui conviennent pas.
+ 
+## Dossier de conception fonctionnelle  
+Ce dossier est disponible ici, [version 1.4](Projet_4_Dossier_de_conception_fonctionnelle_1.4.doc)  
+
+## Dossier de conception technique  
+Ce dossier est disponible ici, [version 2.0](Projet_6_Dossier_de_conception_technique_2.0.doc)  
+
+## Dossier d'éxploitation  
+
+    - Rédaction en cours
+
+## Procès verbal de livraison 
+    
+    - Rédaction en cours
+
+## Auteur  
+Stephen A.OGOLO  
+
+## Remerciements  
+Merci pour cette lecture et pour l'attention portée à ces informations.  
+Bonne utilisation ;)  
