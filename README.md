@@ -1,6 +1,7 @@
 # P9 Documentez votre systeme de gestion de pizzeria  
-[![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeH7711sJeOaZ_HOpwi3M7MjPOQeOPE2TyMxn-_NyxyHu_O2tm&s)](https://openclassrooms.com/fr)
-[![](https://user.oc-static.com/files/88001_89000/88560.jpg)](https://user.oc-static.com/files/88001_89000/88560.jpg)  
+
+[![](https://user.oc-static.com/files/88001_89000/88560.jpg)](https://user.oc-static.com/files/88001_89000/88560.jpg)
+[![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeH7711sJeOaZ_HOpwi3M7MjPOQeOPE2TyMxn-_NyxyHu_O2tm&s)](https://openclassrooms.com/fr)  
 
 ## Introduction 
 « OC Pizza » est un jeune groupe de pizzeria en plein essor et spécialisé dans les pizzas livrées ou à emporter. Il compte déjà 5 points de vente et prévoit d’en ouvrir au moins 3 de plus d’ici la fin de l’année. Un des responsable du groupe a pris contact avec vous afin de mettre en place un système informatique sur-mesures, déployé dans toutes ses pizzerias et qui lui permettrait notamment :
