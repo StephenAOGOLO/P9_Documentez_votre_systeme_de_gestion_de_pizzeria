@@ -1,0 +1,3 @@
+module_x==versionx
+module_y==versiony
+module_z==versionz
