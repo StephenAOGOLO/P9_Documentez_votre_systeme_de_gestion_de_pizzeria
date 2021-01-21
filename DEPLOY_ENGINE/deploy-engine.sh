@@ -15,3 +15,6 @@
 
 # Step 6 : NGNIX configuration.
 ./ngnix-scripts.sh
+
+# Last step : Launch the website
+xdg-open http://www.oc_pizza.com

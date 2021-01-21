@@ -1,0 +1,17 @@
+[Unit]
+Description=gunicorn daemon
+Requires=gunicorn.socket
+After=network.target
+
+[Service]
+User=ubuntu_user
+Group=www-data
+WorkingDirectory=/home/ubuntu_user/OC_PIZZA
+ExecStart=/home/ubuntu_user/OC_PIZZA/oc_pizza_venv/bin/gunicorn \
+          --access-logfile - \
+          --workers 3 \
+          --bind unix:/run/gunicorn.sock \
+          OC_PIZZA.wsgi:application
+
+[Install]
+WantedBy=multi-user.target
