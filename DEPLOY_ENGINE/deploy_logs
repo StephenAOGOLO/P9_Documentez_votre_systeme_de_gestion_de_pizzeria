@@ -1,0 +1,28 @@
+# Step 1 : UBUNTU
+yyyy-mm-dd_hh-mm-ss-mmm : Ubuntu-user-creation > CORRECT
+yyyy-mm-dd_hh-mm-ss-mmm : Packages-installation > CORRECT
+
+# Step 2 : POSTGRESQL DataBase
+yyyy-mm-dd_hh-mm-ss-mmm : Database-creation > CORRECT
+yyyy-mm-dd_hh-mm-ss-mmm : Psql-user-creation > CORRECT
+yyyy-mm-dd_hh-mm-ss-mmm : User-association > CORRECT
+
+# Step 3 : VIRTUAL ENVIRONMENT
+yyyy-mm-dd_hh-mm-ss-mmm : Virtual-environment-installation > CORRECT
+yyyy-mm-dd_hh-mm-ss-mmm : Virtual-environment-activation > CORRECT
+
+# Step 4 : DJANGO PROJECT
+yyyy-mm-dd_hh-mm-ss-mmm : Project-downloading > CORRECT
+yyyy-mm-dd_hh-mm-ss-mmm : Database-upgrading > CORRECT
+yyyy-mm-dd_hh-mm-ss-mmm : Ressources-access-formatting > CORRECT
+
+# Step 5 : GUNICORN
+yyyy-mm-dd_hh-mm-ss-mmm : Gunicorn-service-file-configuration > CORRECT
+yyyy-mm-dd_hh-mm-ss-mmm : Gunicorn-service-activation > CORRECT
+
+# Step 6 : NGNIX
+yyyy-mm-dd_hh-mm-ss-mmm : Ngnix-service-file-configuration > CORRECT
+yyyy-mm-dd_hh-mm-ss-mmm : Ngnix-service-activation > CORRECT
+
+# Final step : Launch the website
+yyyy-mm-dd_hh-mm-ss-mmm : Website-connection > CORRECT

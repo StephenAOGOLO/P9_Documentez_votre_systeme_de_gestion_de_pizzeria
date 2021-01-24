@@ -15,3 +15,4 @@ ExecStart=/home/ubuntu_user/OC_PIZZA/oc_pizza_venv/bin/gunicorn \
 
 [Install]
 WantedBy=multi-user.target
+
