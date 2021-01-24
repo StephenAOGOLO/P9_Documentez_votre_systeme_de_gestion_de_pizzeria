@@ -24,11 +24,12 @@ Ce dossier est disponible ici, [version 1.4](DOCUMENTATION/Projet_4_Dossier_de_c
 Ce dossier est disponible ici, [version 2.0](DOCUMENTATION/Projet_6_Dossier_de_conception_technique_2.0.doc)  
 
 ## Dossier d'éxploitation  
+Ce dossier est disponible ici, [version 1.0](DOCUMENTATION/Projet_9_Dossier_d_exploitation_1.0.docx)
 
     - Rédaction en cours
 
 ## Procès verbal de livraison 
-    
+Ce pv est disponible ici, [version 1.0](DOCUMENTATION/Projet_9_PV_Livraison.doc)    
     - Rédaction en cours
 
 ## Auteur  
