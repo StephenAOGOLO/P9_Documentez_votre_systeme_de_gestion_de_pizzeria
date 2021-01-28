@@ -18,13 +18,13 @@ d’informer ou notifier les clients sur l’état de leur commande
  Le client a déjà fait une petite prospection et les logiciels existants qu’il a pu trouver ne lui conviennent pas.
  
 ## Dossier de conception fonctionnelle  
-Ce dossier est disponible ici, [version 1.4](DOCUMENTATION/Projet_4_Dossier_de_conception_fonctionnelle_1.4.doc)  
+Ce dossier est disponible ici, [version 1.4](DOCUMENTATION/pdf/Projet_4_Dossier_de_conception_fonctionnelle_1.4.pdf)  
 
 ## Dossier de conception technique  
-Ce dossier est disponible ici, [version 2.0](DOCUMENTATION/Projet_6_Dossier_de_conception_technique_2.0.doc)  
+Ce dossier est disponible ici, [version 2.0](DOCUMENTATION/pdf/Projet_6_Dossier_de_conception_technique_2.0.pdf)  
 
 ## Dossier d'éxploitation  
-Ce dossier est disponible ici, [version 1.0](DOCUMENTATION/Projet_9_Dossier_d_exploitation_1.0.docx)
+Ce dossier est disponible ici, [version 1.0](DOCUMENTATION/pdf/Projet_9_Dossier_d_exploitation_1.0.pdf)
 
     - Rédaction en cours
 
