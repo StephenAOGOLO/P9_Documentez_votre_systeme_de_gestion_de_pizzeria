@@ -1,3 +1,7 @@
+#!/bin/bash
+# Sequential execution
+set -e
+
 # Step 1 : UBUNTU packages installation.
 ./ubuntu-scripts.sh
 
