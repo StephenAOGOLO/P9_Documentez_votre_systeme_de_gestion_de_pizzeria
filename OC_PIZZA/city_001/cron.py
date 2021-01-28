@@ -6,5 +6,9 @@ def cyclic_update():
     except:
         pass
 
-
+def cyclic_backup():
+    try:
+        call_command('backup_ocpizza')
+    except:
+        pass
 

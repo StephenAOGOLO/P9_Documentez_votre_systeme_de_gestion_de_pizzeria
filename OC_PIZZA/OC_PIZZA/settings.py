@@ -12,8 +12,14 @@ https://docs.djangoproject.com/en/3.1/ref/settings/
 
 from pathlib import Path
 import OC_PIZZA.the_secrets as tst
+import sentry_sdk
+from sentry_sdk.integrations.django import DjangoIntegration
 import os
 
+sentry_sdk.init(
+    dsn="https://PublicKey@sentry.io/0",
+    integrations=[DjangoIntegration()]
+)
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
@@ -51,9 +57,12 @@ DBBACKUP_STORAGE = 'django.core.files.storage.FileSystemStorage'
 DBBACKUP_STORAGE_OPTIONS = {'location': BASE_DIR /  'UPDATE_ENGINE/DB_OC_PIZZA_BACKUP'}
 
 CRONJOBS = [
-    ('0 6 * * * *', 'city001.cron.cyclic_update'),
-    ('0 6 * * * *', 'city002.cron.cyclic_update'),
-    ('0 6 * * * *', 'city003.cron.cyclic_update')
+    ('0 6 * * *', 'city001.cron.cyclic_update'),
+    ('0 6 * * *', 'city002.cron.cyclic_update'),
+    ('0 6 * * *', 'city003.cron.cyclic_update'),
+    ('0 6 1 * *', 'city001.cron.cyclic_backup'),
+    ('0 6 1 * *', 'city002.cron.cyclic_backup'),
+    ('0 6 1 * *', 'city003.cron.cyclic_backup'),
 ]
 
 MIDDLEWARE = [
