@@ -28,9 +28,8 @@ Ce dossier est disponible ici, [version 1.0](DOCUMENTATION/pdf/Projet_9_Dossier_
 
 
 ## Procès verbal de livraison  
-Ce pv est disponible ici, [version 1.0](DOCUMENTATION/Projet_9_PV_Livraison.doc)    
+Ce pv est disponible ici, [version 1.0](DOCUMENTATION/pdf/Projet_9_PV_Livraison.pdf)    
 
-    - Rédaction en cours
 
 ## Auteur  
 Stephen A.OGOLO  
