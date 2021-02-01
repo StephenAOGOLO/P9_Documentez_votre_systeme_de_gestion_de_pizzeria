@@ -15,7 +15,7 @@ payer en ligne leur commande s’il le souhaite, sinon, ils paieront directement
 modifier ou annuler leur commande tant que celle-ci n’a pas été préparée
 de proposer un aide mémoire aux pizzaiolos indiquant la recette de chaque pizza
 d’informer ou notifier les clients sur l’état de leur commande
- Le client a déjà fait une petite prospection et les logiciels existants qu’il a pu trouver ne lui conviennent pas.
+Le client a déjà fait une petite prospection et les logiciels existants qu’il a pu trouver ne lui conviennent pas.  
  
 ## Dossier de conception fonctionnelle  
 Ce dossier est disponible ici, [version 1.4](DOCUMENTATION/pdf/Projet_4_Dossier_de_conception_fonctionnelle_1.4.pdf)  
@@ -24,11 +24,10 @@ Ce dossier est disponible ici, [version 1.4](DOCUMENTATION/pdf/Projet_4_Dossier_
 Ce dossier est disponible ici, [version 2.0](DOCUMENTATION/pdf/Projet_6_Dossier_de_conception_technique_2.0.pdf)  
 
 ## Dossier d'éxploitation  
-Ce dossier est disponible ici, [version 1.0](DOCUMENTATION/pdf/Projet_9_Dossier_d_exploitation_1.0.pdf)
+Ce dossier est disponible ici, [version 1.0](DOCUMENTATION/pdf/Projet_9_Dossier_d_exploitation_1.0.pdf)  
 
-    - Rédaction en cours
 
-## Procès verbal de livraison 
+## Procès verbal de livraison  
 Ce pv est disponible ici, [version 1.0](DOCUMENTATION/Projet_9_PV_Livraison.doc)    
 
     - Rédaction en cours
